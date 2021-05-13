@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="test/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="test/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="test/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="test/lib/httpclient-4.0.jar"/>
+	<classpathentry kind="lib" path="test/lib/httpcore-4.2.3.jar"/>
+	<classpathentry kind="lib" path="test/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="test/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="test/lib/tomcat-jdbc-7.0.41.jar"/>
+	<classpathentry kind="lib" path="test/lib/tomcat-juli-7.0.27.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>
